@@ -1,0 +1,1 @@
+# gcpay_static
